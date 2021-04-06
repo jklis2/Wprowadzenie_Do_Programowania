@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cwiczenia_spoj
+namespace Wzorki1
 {
     class Program
     {
