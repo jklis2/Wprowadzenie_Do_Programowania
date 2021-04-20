@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMPSEQ6", "SMPSEQ6\SMPSEQ6.csproj", "{36A34D9C-D7F6-4368-8167-D1BB10C6990C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A34D9C-D7F6-4368-8167-D1BB10C6990C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A34D9C-D7F6-4368-8167-D1BB10C6990C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A34D9C-D7F6-4368-8167-D1BB10C6990C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A34D9C-D7F6-4368-8167-D1BB10C6990C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F81A1D3-27E3-47F2-B714-E5949F3AB786}
+	EndGlobalSection
+EndGlobal
