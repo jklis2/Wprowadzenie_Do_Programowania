@@ -13,6 +13,8 @@ namespace Klasa_Trojkat
             Klasa_Trojkat t;
             t = new Klasa_Trojkat(3, 4, 5);
             Console.WriteLine(t.ToString());
+            Console.WriteLine(t.Obwod);
+
             Klasa_Trojkat domyslny = new Klasa_Trojkat();
             Console.WriteLine(domyslny);
         }

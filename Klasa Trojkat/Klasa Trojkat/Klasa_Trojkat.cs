@@ -42,5 +42,11 @@ namespace Klasa_Trojkat
             return $"Trojkat (a={A}, b={B}, c={C})";
         }
         // Inne metody
+        public double ObliczObwod()
+        {
+            return Math.Round(A + B + C, PRECYZJA);
+        }
+
+        public double Obwod => Math.Round(A + B + C, PRECYZJA);
     }
 }
