@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab_09_Klasy_i_Dziedziczenie
 {
-    class Person
+    public class Person
     {
     }
 }
