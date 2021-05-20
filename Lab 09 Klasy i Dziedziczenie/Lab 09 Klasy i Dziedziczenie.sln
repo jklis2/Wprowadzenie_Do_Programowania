@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 09 Klasy i Dziedziczenie", "Lab 09 Klasy i Dziedziczenie\Lab 09 Klasy i Dziedziczenie.csproj", "{1EF5274F-13EB-49E9-931C-A408F11BCFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF5274F-13EB-49E9-931C-A408F11BCFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF5274F-13EB-49E9-931C-A408F11BCFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF5274F-13EB-49E9-931C-A408F11BCFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF5274F-13EB-49E9-931C-A408F11BCFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC0F764-E0BF-42D8-B82E-6DBE20A0946E}
+	EndGlobalSection
+EndGlobal
