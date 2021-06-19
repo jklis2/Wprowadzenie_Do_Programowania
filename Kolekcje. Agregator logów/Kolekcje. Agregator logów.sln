@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolekcje. Agregator logów", "Kolekcje. Agregator logów\Kolekcje. Agregator logów.csproj", "{43E5EDBA-7C95-4D42-9F02-A3CE1A4B33BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E5EDBA-7C95-4D42-9F02-A3CE1A4B33BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E5EDBA-7C95-4D42-9F02-A3CE1A4B33BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E5EDBA-7C95-4D42-9F02-A3CE1A4B33BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E5EDBA-7C95-4D42-9F02-A3CE1A4B33BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620BA4B9-35F5-4785-9A35-224B4C315936}
+	EndGlobalSection
+EndGlobal
